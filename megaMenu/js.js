@@ -1,5 +1,4 @@
-<script>
-$('.nav-toggle').on('click', function(){
+
+$('.slider').on('click', function(){
   $('#menu').toggleClass('active');
 });
-</script>
