@@ -112,17 +112,19 @@ html {
 .one {
     margin-bottom: 30px;
     width: 64%;
-    outline: 1px solid black;
+    /*outline: 1px solid black;*/
 }
 
 /* блок для виджетов */
 aside {
+    margin: 0 auto;
+}
     width: 28%;
-    outline: 1px solid black;
+    /*outline: 1px solid black;*/
 }
 
 .widget {
-    padding: 20px 15px;
+    /*padding: 20px 15px;*/
     background: white;
     font-size: 1.3rem;
     margin-bottom: 30px;
@@ -189,7 +191,7 @@ aside {
     max-width: 100%;
     font-size: 0.9375rem;
     color: #555;
-    outline: 1px solid green;
+    /*outline: 1px solid green;*/
     list-style-type: none;
 
 }
