@@ -116,9 +116,7 @@ html {
 }
 
 /* блок для виджетов */
-aside {
-    margin: 0 auto;
-}
+.wrap-aside {
     width: 28%;
     /*outline: 1px solid black;*/
 }
@@ -131,7 +129,7 @@ aside {
     box-shadow: 3px 3px 1px rgba(0, 0, 0, .05);
 }
 
-.widget-title {
+.widget__title {
     font-size: 1.4rem;
     padding: 10px;
     margin-bottom: 20px;
@@ -141,30 +139,41 @@ aside {
     text-align: center;
 }
 
-.widget-category-list li {
+.widget__list--post {
+
+}
+
+.widget__list--video li {
+    text-align: center;
+}
+
+.widget__item {
     border-bottom: 1px solid #EBEBE3;
     padding: 10px 0;
     color: #c6c6c6;
     font-style: italic;
     list-style-type: none;
+    margin: 0 auto;
+
 }
 
-.widget-category-list li:last-child {
+.widget__item:last-child {
     border-bottom: none;
 }
 
-.widget-category-list li a {
+.widget__link {
     color: #626262;
     margin-right: 6px;
     font-style: normal;
     text-decoration: none;
 }
-.widget-category-list li a:hover{
- text-decoration: underline;
-    color:red;
+
+.widget__link:hover {
+    text-decoration: underline;
+    color: red;
 }
 
-.widget-category-list li a:before {
+.widget__link:before {
     content: "\f105";
     display: inline-block;
     font-family: 'FontAwesome';
@@ -172,52 +181,38 @@ aside {
     color: #c6c6c6;
 }
 
-.widget-post-list {
+.widget__list--video {
     display: flex;
     flex-direction: column;
-
+    padding: 0;
 
 }
 
-.widget-post-list li {
-    list-style-type: none;
+.widget__title-video {
+    padding: 15px 0;
+    font-size: 1.3rem;
+    text-align: center;
+    color: #5e4a3f;
+    position: relative;
+}
+.widget__title-video:after{
+    content: "";
+    position: absolute;
+    width: 75px;
+    left:20%;
+    border-bottom: 2px solid green;
+    bottom: 15%;
+
 }
 
-.widget-post-list li:nth-child {
-    border-top: none
-}
-
-.widget-video-embed {
+.widget__video-embed {
+    margin: 20px 0 0px 0;
     max-width: 100%;
     font-size: 0.9375rem;
     color: #555;
     /*outline: 1px solid green;*/
     list-style-type: none;
 
-}
-
-.widget-post-title {
-    border-top: 1px solid #EBEBE3;
-    padding: 15px 0;
-    font-size: 1.4rem;
-    text-align: center;
-
-}
-.widget__span {
-    display: inline-block;
-    padding: 0 0 0.5em 0;
-    position: relative;
-}
-.widget__span:before {
-    content: "";
-    position: absolute;
-    width: 60px;
-    bottom: -1px;
-    border-bottom: 1px solid #e54e53;
-}
-
-.widget__item:nth-child(1) {
-    border-top: none;
 }
 
 /* форма подписки */

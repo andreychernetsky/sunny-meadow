@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82392d0e-8fc1-4a5f-b51e-8ada16f0d546" name="Default" comment="" />
+    <list default="true" id="82392d0e-8fc1-4a5f-b51e-8ada16f0d546" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elementSite/.idea/elementSite.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elementSite/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elementSite/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/css/images/arrow.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/css/images/close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/css/images/spinner.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/css/noscript.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/js/breakpoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/js/browser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/js/jquery.poptrox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/js/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/base/_page.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/base/_reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/base/_typography.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_actions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_button.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_form.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_icon.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_panel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_poptrox-popup.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/components/_table.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/layout/_footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/layout/_header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/layout/_main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/layout/_wrapper.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/libs/_breakpoints.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/libs/_functions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/libs/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/libs/_vars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/libs/_vendor.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/assets/sass/noscript.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/9jpg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00005.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00006.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00013 - копия.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00015 - копия.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00022 - копия.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00040.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00059.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00059.JPG - Ярлык.lnk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00076.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00087.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00089.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00138.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00150.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00200.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00821.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/DSC00850.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/IMG_9463.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/IMG_9903.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/foto_sun/IMG_9937.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/fulls/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/images/thumbs/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/galerea_site/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elementSite/menu.css" afterPath="$PROJECT_DIR$/elementSite/menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/elementSite/menu.html" afterPath="$PROJECT_DIR$/elementSite/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/megaMenu/.idea/workspace.xml" afterPath="$PROJECT_DIR$/megaMenu/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/megaMenu/menu.css" afterPath="$PROJECT_DIR$/megaMenu/menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/megaMenu/menu.html" afterPath="$PROJECT_DIR$/megaMenu/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/megaMenu/responsive.css" afterPath="$PROJECT_DIR$/megaMenu/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site.html" afterPath="$PROJECT_DIR$/site.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +127,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elementSite/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+            <state relative-caret-position="16">
+              <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="site.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/site.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -27,9 +150,11 @@
       <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="416">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,8 +162,8 @@
       <file leaf-file-name="menu.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1568">
-              <caret line="98" column="18" lean-forward="false" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+            <state relative-caret-position="3600">
+              <caret line="225" column="16" lean-forward="false" selection-start-line="225" selection-start-column="16" selection-end-line="226" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -55,6 +180,7 @@
         <option value="$PROJECT_DIR$/megaMenu/responsive.css" />
         <option value="$PROJECT_DIR$/elementSite/menu.css" />
         <option value="$PROJECT_DIR$/elementSite/menu.html" />
+        <option value="$PROJECT_DIR$/site.html" />
       </list>
     </option>
   </component>
@@ -85,6 +211,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +234,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -142,18 +268,23 @@
       <updated>1543127744606</updated>
       <workItem from="1543127747407" duration="9694000" />
       <workItem from="1543160925981" duration="823000" />
-      <workItem from="1543162103077" duration="226000" />
+      <workItem from="1543162103077" duration="824000" />
+      <workItem from="1543226611134" duration="166000" />
+      <workItem from="1543256190936" duration="2916000" />
+      <workItem from="1543304448579" duration="79000" />
+      <workItem from="1543316743314" duration="28000" />
+      <workItem from="1543867730800" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10743000" />
+    <option name="totallyTimeSpent" value="14684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04910714" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1376488" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -187,7 +318,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="225" column="16" lean-forward="false" selection-start-line="225" selection-start-column="16" selection-end-line="226" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="225" column="16" lean-forward="false" selection-start-line="225" selection-start-column="16" selection-end-line="226" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="225" column="16" lean-forward="true" selection-start-line="225" selection-start-column="16" selection-end-line="226" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -211,38 +422,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1568">
-          <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/elementSite/site.html" />
-    <entry file="file://$PROJECT_DIR$/site.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="37" column="3" lean-forward="false" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/megaMenu/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-576">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -256,8 +438,94 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/elementSite/menu.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="81" column="35" lean-forward="true" selection-start-line="81" selection-start-column="35" selection-end-line="81" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="98" column="18" lean-forward="false" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1568">
+          <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/site.html" />
+    <entry file="file://$PROJECT_DIR$/megaMenu/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-576">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/megaMenu/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1543770749175" expanded="true" signature="37:39" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3600">
+          <caret line="225" column="16" lean-forward="false" selection-start-line="225" selection-start-column="16" selection-end-line="226" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elementSite/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="26" column="49" lean-forward="false" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
           <folding />
         </state>
       </provider>
